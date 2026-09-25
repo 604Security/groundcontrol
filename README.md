@@ -129,3 +129,4 @@ The fix logic rejects it; the reason shows in the header.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
